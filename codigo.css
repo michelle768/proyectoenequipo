@@ -1,0 +1,42 @@
+/* Cambiar el color de fondo de la página */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el título principal */
+h1 {
+    color: #2e8b57;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Estilo para los subtítulos */
+h2 {
+    color: #4682b4;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+/* Estilo para los párrafos */
+p {
+    font-size: 1.2em;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilo para la lista no ordenada */
+ul {
+    list-style-type: square;
+    text-align: center;
+}
+
+/* Estilo para los elementos de la lista */
+li {
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 10px;
+}
