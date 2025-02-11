@@ -268,6 +268,8 @@ ayuda += "/flash : Activa el flash \n";
 ayuda += "/ayuda: Imprime este mensaje \n";
 ayuda += "Recuerda el sistema distingue entre mayuculas y minusculas \n";
 bot.sendMessage(idChat, ayuda, "");
+  "proyecto 2023"
+
 }
 }
 }
